@@ -4,7 +4,7 @@
 
 Motivé, créatif et stratégique, je possède de solides compétences en analyse et en résolution de défaillances informatiques. Dévoué et doté d’un excellent esprit d’équipe. Ma nature sociable et ma curiosité constante me poussent à relever de nouveaux défis et à enrichir continuellement mes compétences.
 
-**Actuellement inscrit à une formation de 6 mois à la Wild Code School**, je suis pleinement immergé dans des projets collaboratifs et un apprentissage concret. Je suis enthousiaste à l’idée d’apporter ma contribution!
+**Actuellement inscrit à une formation de 5 mois à la Wild Code School**, je suis pleinement immergé dans des projets collaboratifs et un apprentissage concret. Je suis enthousiaste à l’idée d’apporter ma contribution!
 
 <h2>💻 Compétences technique</h2>
 
