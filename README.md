@@ -40,7 +40,7 @@ Motivé, créatif et stratégique, je possède de solides compétences en analys
 
 - **Email:** mrdbmyla@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/mourad-boumayla/
-- **Portfolio:** https://mouradboumayla.fr
+- **Portfolio:** http://mouradboumayla.fr
 <!--
 **mrdbmyla/mrdbmyla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
